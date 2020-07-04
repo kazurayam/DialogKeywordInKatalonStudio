@@ -1,0 +1,326 @@
+{
+    "storageScannerOptions": {
+        "shiftCriteriaPercentageBy": 2.0,
+        "filterDataLessThan": 2.0,
+        "maximumNumberOfImageDeltas": 5,
+        "onlySince": "19990101_000000",
+        "onlySinceInclusive": true,
+        "probability": 0.95,
+        "projectDirectory": "",
+        "previousImageDeltaStats": "/Users/kazuakiurayama/katalon-workspace/VisualTestingInKatalonStudio/Storage/CURA.chronos_exam/CURA_DevelopmentEnv/20200628_223708/CURA.ImageDiff_chronos/image-delta-stats.json"
+    },
+    "imageDeltaStatsEntries": [
+        {
+            "TSuiteName": "CURA.chronos_capture",
+            "TExecutionProfile": "CURA_DevelopmentEnv",
+            "materialStatsList": [
+                {
+                    "path": "CURA.visitSite/appointment.php%23summary.png",
+                    "degree": 0,
+                    "sum": 0.0,
+                    "mean": 0.0,
+                    "variance": 0.0,
+                    "standardDeviation": 0.0,
+                    "tDistribution": 0.0,
+                    "confidenceInterval": {
+                        "lowerBound": 0.0,
+                        "uppderBound": 0.0,
+                        "confidenceLevel": 0.0
+                    },
+                    "criteriaPercentage": 2.00,
+                    "data": [
+                        
+                    ],
+                    "imageDeltaList": [
+                        {
+                            "a": "20200628_223837",
+                            "b": "20200628_223707",
+                            "d": 0.00,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_223707",
+                            "b": "20200628_223316",
+                            "d": 0.00,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_223316",
+                            "b": "20200628_223149",
+                            "d": 0.00,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_223149",
+                            "b": "20200628_222759",
+                            "d": 0.00,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_222759",
+                            "b": "20200628_222539",
+                            "d": 0.00,
+                            "cached": false
+                        }
+                    ]
+                },
+                {
+                    "path": "CURA.visitSite/default%23appointment.png",
+                    "degree": 0,
+                    "sum": 0.0,
+                    "mean": 0.0,
+                    "variance": 0.0,
+                    "standardDeviation": 0.0,
+                    "tDistribution": 0.0,
+                    "confidenceInterval": {
+                        "lowerBound": 0.0,
+                        "uppderBound": 0.0,
+                        "confidenceLevel": 0.0
+                    },
+                    "criteriaPercentage": 2.00,
+                    "data": [
+                        
+                    ],
+                    "imageDeltaList": [
+                        {
+                            "a": "20200628_223837",
+                            "b": "20200628_223707",
+                            "d": 0.00,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_223707",
+                            "b": "20200628_223316",
+                            "d": 0.00,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_223316",
+                            "b": "20200628_223149",
+                            "d": 0.00,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_223149",
+                            "b": "20200628_222759",
+                            "d": 0.00,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_222759",
+                            "b": "20200628_222539",
+                            "d": 0.00,
+                            "cached": false
+                        }
+                    ]
+                },
+                {
+                    "path": "CURA.visitSite/home.png",
+                    "degree": 4,
+                    "sum": 70.14999999999999,
+                    "mean": 17.537499999999998,
+                    "variance": 4.613370351059936,
+                    "standardDeviation": 2.1478757764498244,
+                    "tDistribution": 2.353363434801874,
+                    "confidenceInterval": {
+                        "lowerBound": 15.010133842603148,
+                        "uppderBound": 20.06486615739685,
+                        "confidenceLevel": 0.95
+                    },
+                    "criteriaPercentage": 22.07,
+                    "data": [
+                        2.33,
+                        2.33,
+                        2.33,
+                        63.16
+                    ],
+                    "imageDeltaList": [
+                        {
+                            "a": "20200628_223837",
+                            "b": "20200628_223707",
+                            "d": 0.00,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_223707",
+                            "b": "20200628_223316",
+                            "d": 2.33,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_223316",
+                            "b": "20200628_222759",
+                            "d": 2.33,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_222759",
+                            "b": "20200628_222539",
+                            "d": 2.33,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_222539",
+                            "b": "20200628_222241",
+                            "d": 63.16,
+                            "cached": false
+                        }
+                    ]
+                },
+                {
+                    "path": "CURA.visitSite/profile.php%23login.png",
+                    "degree": 0,
+                    "sum": 0.0,
+                    "mean": 0.0,
+                    "variance": 0.0,
+                    "standardDeviation": 0.0,
+                    "tDistribution": 0.0,
+                    "confidenceInterval": {
+                        "lowerBound": 0.0,
+                        "uppderBound": 0.0,
+                        "confidenceLevel": 0.0
+                    },
+                    "criteriaPercentage": 2.00,
+                    "data": [
+                        
+                    ],
+                    "imageDeltaList": [
+                        {
+                            "a": "20200628_223837",
+                            "b": "20200628_223707",
+                            "d": 0.00,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_223707",
+                            "b": "20200628_223316",
+                            "d": 0.00,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_223316",
+                            "b": "20200628_223149",
+                            "d": 0.00,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_223149",
+                            "b": "20200628_222759",
+                            "d": 0.00,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_222759",
+                            "b": "20200628_222539",
+                            "d": 0.00,
+                            "cached": false
+                        }
+                    ]
+                },
+                {
+                    "path": "CURA.visitSite/revisited.png",
+                    "degree": 0,
+                    "sum": 0.0,
+                    "mean": 0.0,
+                    "variance": 0.0,
+                    "standardDeviation": 0.0,
+                    "tDistribution": 0.0,
+                    "confidenceInterval": {
+                        "lowerBound": 0.0,
+                        "uppderBound": 0.0,
+                        "confidenceLevel": 0.0
+                    },
+                    "criteriaPercentage": 2.00,
+                    "data": [
+                        
+                    ],
+                    "imageDeltaList": [
+                        {
+                            "a": "20200628_223837",
+                            "b": "20200628_223707",
+                            "d": 0.00,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_223707",
+                            "b": "20200628_223316",
+                            "d": 0.00,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_223316",
+                            "b": "20200628_223149",
+                            "d": 0.00,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_223149",
+                            "b": "20200628_222759",
+                            "d": 0.00,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_222759",
+                            "b": "20200628_222539",
+                            "d": 0.00,
+                            "cached": false
+                        }
+                    ]
+                },
+                {
+                    "path": "CURA.visitSite/\u30c8\u30c3\u30d7.png",
+                    "degree": 4,
+                    "sum": 70.14999999999999,
+                    "mean": 17.537499999999998,
+                    "variance": 4.613370351059936,
+                    "standardDeviation": 2.1478757764498244,
+                    "tDistribution": 2.353363434801874,
+                    "confidenceInterval": {
+                        "lowerBound": 15.010133842603148,
+                        "uppderBound": 20.06486615739685,
+                        "confidenceLevel": 0.95
+                    },
+                    "criteriaPercentage": 22.07,
+                    "data": [
+                        2.33,
+                        2.33,
+                        2.33,
+                        63.16
+                    ],
+                    "imageDeltaList": [
+                        {
+                            "a": "20200628_223837",
+                            "b": "20200628_223707",
+                            "d": 0.00,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_223707",
+                            "b": "20200628_223316",
+                            "d": 2.33,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_223316",
+                            "b": "20200628_222759",
+                            "d": 2.33,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_222759",
+                            "b": "20200628_222539",
+                            "d": 2.33,
+                            "cached": false
+                        },
+                        {
+                            "a": "20200628_222539",
+                            "b": "20200628_222241",
+                            "d": 63.16,
+                            "cached": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
