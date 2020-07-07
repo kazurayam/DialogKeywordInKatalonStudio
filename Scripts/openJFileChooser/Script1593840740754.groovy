@@ -42,7 +42,7 @@ def chooser = new JFileChooser(
 		}
 	] as FileFilter)
 
-int ret = chooser.showOpenDialog(chooser)
+int ret = chooser.showOpenDialog(null)
 
 if (ret == JFileChooser.APPROVE_OPTION) {
 	File selectedFile = chooser.getSelectedFile()
