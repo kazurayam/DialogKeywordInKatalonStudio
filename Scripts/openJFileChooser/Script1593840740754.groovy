@@ -42,6 +42,9 @@ def chooser = new JFileChooser(
 		}
 	] as FileFilter)
 
+chooser.setVisible(true)
+chooser.requestFocus()
+
 int ret = chooser.showOpenDialog(null)
 
 if (ret == JFileChooser.APPROVE_OPTION) {
